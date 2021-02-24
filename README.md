@@ -14,6 +14,12 @@ TypeScript adds:
 
 ## TypeScript Basics
 
+#### Core Types
+
+1. `number` (no special types): 1, 5.3, -10 All numbers, no differentioation between integers or floats
+2. `string`: 'Hi', "Hi", \`Hi\` All text values
+3. `boolean`: `true`, `false` Just these two, no "truthy" or "falsy" values
+
 ## Compiler & Configuration Deep Dive
 
 ## Working with Next-gen JS Code
